@@ -1,0 +1,16 @@
+# ninja log v6
+7	699	7953147491751878	AuthApp_autogen/timestamp	3a92ee9b75017726
+7	699	7953147491751878	AuthApp_autogen/mocs_compilation.cpp	3a92ee9b75017726
+7	699	7953147491751878	C:/Users/rimel/Documents/AuthApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/AuthApp_autogen/timestamp	3a92ee9b75017726
+7	699	7953147491751878	C:/Users/rimel/Documents/AuthApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/AuthApp_autogen/mocs_compilation.cpp	3a92ee9b75017726
+704	2747	7953147492559499	CMakeFiles/AuthApp.dir/AuthApp_autogen/mocs_compilation.cpp.obj	e89f5e8553c27ab3
+724	3066	7953147492760830	CMakeFiles/AuthApp.dir/main.cpp.obj	d4c2f78bdc4ca589
+730	3333	7953147492813434	CMakeFiles/AuthApp.dir/mainwindow.cpp.obj	d5c1cbe2b4d28165
+3333	3674	7953147518850226	AuthApp.exe	16f81d3c44c7ae7e
+10	193	7953150904931416	AuthApp_autogen/timestamp	3a92ee9b75017726
+10	193	7953150904931416	AuthApp_autogen/mocs_compilation.cpp	3a92ee9b75017726
+10	193	7953150904931416	C:/Users/rimel/Documents/AuthApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/AuthApp_autogen/timestamp	3a92ee9b75017726
+10	193	7953150904931416	C:/Users/rimel/Documents/AuthApp/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/AuthApp_autogen/mocs_compilation.cpp	3a92ee9b75017726
+194	2466	7953150906773509	CMakeFiles/AuthApp.dir/main.cpp.obj	d4c2f78bdc4ca589
+214	2722	7953150906972751	CMakeFiles/AuthApp.dir/mainwindow.cpp.obj	d5c1cbe2b4d28165
+2722	3024	7953150932057994	AuthApp.exe	16f81d3c44c7ae7e
